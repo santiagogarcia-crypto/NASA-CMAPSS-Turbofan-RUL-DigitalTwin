@@ -36,8 +36,17 @@ The Streamlit web application provides a real-time decision-support system for a
 
 ## 💻 Quick Start (Local Reproduction)
 
+To run the Digital Twin dashboard on your local machine, follow these steps:
+
 ```bash
-# Clone repository
-git clone https://github.com/santiagogarcia-crypto/NASA-CMAPSS-Turbofan-RUL-DigitalTwin.git
-# Run interactive dashboard
+# 1. Clone the public repository
+git clone [https://github.com/santiagogarcia-crypto/NASA-CMAPSS-Turbofan-RUL-DigitalTwin.git](https://github.com/santiagogarcia-crypto/NASA-CMAPSS-Turbofan-RUL-DigitalTwin.git)
+
+# 2. Navigate into the project directory
+cd NASA-CMAPSS-Turbofan-RUL-DigitalTwin
+
+# 3. Install required Python packages
+pip install -r requirements.txt
+
+# 4. Launch the interactive dashboard
 python -m streamlit run app.py
