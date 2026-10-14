@@ -40,7 +40,7 @@ To run the Digital Twin dashboard on your local machine, follow these steps:
 
 ```bash
 # 1. Clone the public repository
-git clone [https://github.com/santiagogarcia-crypto/NASA-CMAPSS-Turbofan-RUL-DigitalTwin.git](https://github.com/santiagogarcia-crypto/NASA-CMAPSS-Turbofan-RUL-DigitalTwin.git)
+git clone https://github.com/santiagogarcia-crypto/NASA-CMAPSS-Turbofan-RUL-DigitalTwin.git
 
 # 2. Navigate into the project directory
 cd NASA-CMAPSS-Turbofan-RUL-DigitalTwin
