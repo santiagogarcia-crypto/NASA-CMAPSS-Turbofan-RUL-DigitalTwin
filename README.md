@@ -38,7 +38,6 @@ The Streamlit web application provides a real-time decision-support system for a
 
 ```bash
 # Clone repository
-git clone [https://github.com/santiagogarcia-crypto/NASA-CMAPSS-Turbofan-RUL-DigitalTwin.git](https://github.com/santiagogarcia-crypto/NASA-CMAPSS-Turbofan-RUL-DigitalTwin.git)
-
+git clone https://github.com/santiagogarcia-crypto/NASA-CMAPSS-Turbofan-RUL-DigitalTwin.git
 # Run interactive dashboard
 python -m streamlit run app.py
